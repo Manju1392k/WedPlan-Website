@@ -1,6 +1,8 @@
 # ℹ️ WedPlan 
 
 * ### WedPlan is a website for Wedding Planning. 🤵👰
+* ### WedPlan redure work for people in Weddings.
+* ### WedPlan is used for to design the Function Hall and Menu. According to the Customer 🙍‍♂️
 
 ---
 
